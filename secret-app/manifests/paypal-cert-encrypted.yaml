@@ -6,7 +6,7 @@ metadata:
   namespace: default
 spec:
   encryptedData:
-    paypal.crt: AgApzCAsWe1TwRmHKZdhIvNLvHGfggAa4MrzOsF4GEic9VvOd+92boBcy98K3SD7jfP0BQt1jkkAAT9>
+    paypal.crt: AgAEsLOdm2RvUITKWlaqPEpXpPMm8LOTe/wDBdUXLttBdd/9Hbjr7Gh9JHTiAKeTOWKD+Ef6/B9xp7y>
   template:
     data: null
     metadata:
